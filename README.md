@@ -33,6 +33,14 @@ CYBERNETIX is a premium, fully responsive, futuristic landing page designed with
 
 ---
 
+## Deployment Video
+
+
+
+https://github.com/user-attachments/assets/8e3d8ec7-b671-4ab3-be07-fe315ab676c0
+
+
+
 ## 🚀 How to Run Locally
 
 ### 1. Prerequisites
